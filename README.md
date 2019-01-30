@@ -1,5 +1,8 @@
 # Dog Breed Classifier
-This project has been a part of my Udacity Data Science Nanodegree. You can read the write up of this project on Medium https://medium.com/@henrydashwood/a-dog-detector-and-breed-classifier-4feb99e1f852
+This project has been a part of my Udacity Data Science Nanodegree. You can read the write up of this project on Medium 
+```
+https://medium.com/@henrydashwood/a-dog-detector-and-breed-classifier-4feb99e1f852
+```
 
 # Motivation
 The model in this repo takes an image and determines whether a human or dog is present. It then makes a prediction about what breed the dog is or what dog breed the human most resembles.

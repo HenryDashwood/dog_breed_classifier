@@ -1,2 +1,10 @@
-# dog_breed_classifier
-Part of my Udacity Data Science Nanodegree
+# Dog Breed Classifier
+This project has been a part of my Udacity Data Science Nanodegree
+
+# Libraries 
+
+# Motivation
+
+# Files
+
+# Results
